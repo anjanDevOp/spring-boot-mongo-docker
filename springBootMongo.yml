@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: anjandevop/stand-alone
+        image: anjandevop/spring-boot
         ports:
         - containerPort: 8080
         env:
